@@ -1,6 +1,6 @@
 # e-vishnu-gh.github.io
 
-Personal portfolio site — Vishnu Ellusamy, Senior DevOps / Site Reliability
+Personal portfolio site — Vishnu E, Senior DevOps / Site Reliability
 Engineer. Plain HTML/CSS/JS, no build step, no framework. Deployed with
 GitHub Pages.
 
@@ -33,7 +33,7 @@ js/script.js            theme toggle, mobile nav, scroll-reveal
 assets/
   favicon.svg
   og-image.png          social share preview
-  Vishnu-Ellusamy-Resume.pdf
+  Vishnu-E-Resume.pdf
 robots.txt
 sitemap.xml
 .nojekyll               tells GitHub Pages to skip Jekyll processing
@@ -43,7 +43,7 @@ sitemap.xml
 
 All copy lives directly in `index.html` — experience, selected work, and
 skills are plain markup, no CMS or data file. To update the résumé PDF,
-replace `assets/Vishnu-Ellusamy-Resume.pdf` with the new file, keeping the
+replace `assets/Vishnu-E-Resume.pdf` with the new file, keeping the
 same filename so the download links keep working.
 
 ## Deployment
